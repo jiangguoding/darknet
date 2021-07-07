@@ -1,0 +1,7 @@
+classes= 52
+train  = build/darknet/x64/data/card_train.txt
+valid  = build/darknet/x64/data/card_val.txt
+names  = build/darknet/x64/data/cards.names
+backup = build/darknet/x64/backup
+#eval=coco
+
